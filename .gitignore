@@ -1,9 +1,6 @@
 env/
-.venv/
 __pycache__/
 *.pyc
-.pytest_cache/
 .env
 .adk/
-gastos_agent/data/
-*.db
+vector_store/

@@ -1,4 +1,7 @@
-google-adk==2.13.0
+google-adk
 litellm==1.105.1
-python-dotenv
-pytest
+ddgs
+langchain-chroma
+langchain-ollama
+langchain-text-splitters
+chromadb
