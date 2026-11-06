@@ -1,0 +1,4 @@
+google-adk==2.13.0
+litellm==1.105.1
+python-dotenv
+pytest
